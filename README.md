@@ -1,1 +1,1 @@
-# python2
+# lists in python
